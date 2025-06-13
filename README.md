@@ -3,7 +3,7 @@ This Project is a Budget Tracker using a spreadsheet.
 Author: The author of this project is Fred Changi and can be reached at fredojiem@gmail.com .
 
 
-This project emerged as a solution for young adults, who tend not to have a clear answer of where they
+This project emerged as a solution for people, who tend not to have a clear answer of where they
 spend their money. This is especially true, when it comes to food which for most people, is bought daily.
 
 This spreadsheet allows the user to input their expenditure for the three main meals of the day, Breakfast, Lunch, and Supper, for the entire month.
